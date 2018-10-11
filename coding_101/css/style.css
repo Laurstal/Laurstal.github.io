@@ -1,0 +1,19 @@
+body {
+  background-color: #fff7e6;
+}
+
+h1 {
+  color: #ffb3b3;
+  text-align: center;
+  letter-spacing: 1px;
+}
+h2{
+text-align: center;
+}
+p{
+  font-weight: bold;
+
+}
+#listone{
+  border: 2px black;
+}
